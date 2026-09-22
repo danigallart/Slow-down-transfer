@@ -227,7 +227,7 @@ The program currently supports:
 - Gaussian fast-ion energy distributions.
 - Maxwellian energy distributions.
 - Arbitrary plasma density and hydrogen concentration.
-- Calculation of $W_{\mathrm{crit}}$) from the specified plasma parameters.
+- Calculation of $W_{\mathrm{crit}}$ from the specified plasma parameters.
 - Numerical evaluation of the Stix $G(W)$ function.
 
 Thus, the main purpose of the project is to provide a **simple and accessible computational implementation of the Stix formulation for distributed fast-ion populations**.
